@@ -1,0 +1,28 @@
+_repo: Mesa-Verde-National-Park-Colorado_35936
+_version: 0.1.0
+alternative_title: Mesa Verde National Park, Colorado
+covers:
+- cover_type: archival
+  image_path: 35936-h/images/coverpage.png
+creator:
+  author:
+    agent_name: United States. Department of the Interior
+    aliases:
+    - Interior, United States Dept. of the
+    - United States. Dept. of the Interior
+    gutenberg_agent_id: '9338'
+    url: http://www.gutenberg.org/2009/agents/9338
+description: ''
+gutenberg_issued: '2011-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mesa Verde National Park (Colo.)'
+- !lcc 'F721'
+title: Mesa Verde [Colorado] National Park
+url: http://www.gutenberg.org/ebooks/35936
